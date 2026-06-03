@@ -110,4 +110,4 @@ The following are intentionally excluded and listed in `.gitignore`:
 
 ## 👩‍💻 Author
 
-**Shalvi Gaur** — [GitHub](https://github.com/Shalvigour)
+**Shalvi Gour** — [GitHub](https://github.com/Shalvigour)
